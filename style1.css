@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #000;
+    text-align: center;
+}
+h1{
+    font-family: 'Redressed', cursive;
+    font-size: 10rem;
+    color: #4ECCA3;
+    margin: 30px;
+}
+p{
+    font-family: 'Redressed', cursive;
+    font-size: 3rem;
+    color: #4ECCA3;
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin: 5%;
+    
+}
